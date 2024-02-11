@@ -1,0 +1,11 @@
+Person,Nickname,Favorite Artist,Favorite Song
+1,John,Taylor Swift,Love Story
+2,Emily,Ed Sheeran,Shape of You
+3,Michael,Beyoncé,Halo
+4,Sarah,Drake,God's Plan
+5,Jessica,Bruno Mars,Just the Way You Are
+6,David,Adele,Someone Like You
+7,Ashley,Maroon 5,Sugar
+8,Brian,Rihanna,Diamonds
+9,Megan,Justin Bieber,Sorry
+10,Alex,Ariana Grande,Thank U Next
